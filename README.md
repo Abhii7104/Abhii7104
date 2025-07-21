@@ -62,10 +62,9 @@
 ### 🔥 Contribution Graph
 
 <p align="center">
-  <a href="https://github.com/Abhii7104">
-    <img src="https://ghchart.rshah.org/Abhii7104" alt="Abhii7104's Github chart" />
-  </a>
+  <img src="https://github-contributions-api.deno.dev/Abhii7104.svg" alt="Abhinav's GitHub Contribution Graph" />
 </p>
+
 
 
 
