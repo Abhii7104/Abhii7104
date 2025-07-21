@@ -62,7 +62,7 @@
 ### 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhii7104&bg_color=1f1f1f&color=fc6c85&line=ffcc70&point=ffffff&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhii7104&bg_color=1f1f1f&color=fc6c85&line=ffcc70&point=ffffff&hide_border=true&area=true&custom_title=Abhinav%20Pandey%27s%20Activity%20Graph&hide_title=false" />
 </p>
 
 
