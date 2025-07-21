@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=F7971E&center=true&vCenter=true&width=700&lines=$+whoami;Abhinav+Pandey;Student+%7C+Learning+Web+Development;From+Nepal;Loves+Creative+Web+Design;Building+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=F7971E&center=true&vCenter=true&width=700&lines=$+whoami;Abhinav+Pandey;Student+%7C+Learning+Web+Development;Loves+Creative+Web+Design;Building+Projects" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -13,46 +13,40 @@
 
 ```shell
 📍 Kathmandu, Nepal         
-🎓 Bagmati Boarding School  
-⚽ Forward in Football ⚽️        
-💻 Creative Full-Stack Learner 
-🧠 Loves AI, UI/UX, 3D Projects 
-🎯 Mission: Build futuristic web tools 
+🎓 Learning Web Development  
+⚽ Hobby Football ⚽️        
+💻 Also Learning Full-Stack   
+🎯 Mission: Build small but useful web tools 
 ```
 
 ---
 
 ### 🌐 Let's Connect!
 
-<p align="center">
-  <a href="https://github.com/abhinav-pandey"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-In%20Progress-F97316?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Coming%20Soon-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+<p align="center"> <a href="https://github.com/abhinav-pandey"> <img src="https://skillicons.dev/icons?i=github" height="45px" title="GitHub"/> </a> <a href="mailto:abhinavpandey.dev@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" height="45px" title="Gmail"/> </a> <a href="https://linkedin.com/in/abhinav-pandey"> <img src="https://skillicons.dev/icons?i=linkedin" height="45px" title="LinkedIn"/> </a> <a href="https://facebook.com"> <img src="https://skillicons.dev/icons?i=facebook" height="45px" title="Facebook"/> </a> <a href="https://instagram.com"> <img src="https://skillicons.dev/icons?i=instagram" height="45px" title="Instagram"/> </a> <a href="https://x.com"> <img src="https://skillicons.dev/icons?i=twitter" height="45px" title="Twitter"/> </a> </p>
 
 ---
 
 ### ✨ Featured Projects
 
 | ⚡ Project             | ✨ What It Does                             |
-| --------------------- | ------------------------------------------ |
-| 🎧 Mood Music         | Detects your mood and plays matching songs |
-| 🎨 AI Artify          | Turn ideas into AI-generated art           |
-| 🤖 MultiBot           | Chatbot with switchable personalities      |
-| 🌍 World Explorer     | Real-time facts about any country          |
-| 💼 Animated Portfolio | Creative 3D-style dev portfolio            |
+| --------------------- | ------------------------------------------  |
+| 🤑 Finance  App       | Calculates the Financial Things            |
+| 🎨 Tech Resume        | Generates Portfolio by giving description  |
+| 🤖 Digital Footprint  | Gives details about your device            |  
+| 💼  Readme Generator  | Generates Readme files for project         |
 
 ---
 
 ### 🛠️ My Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mongodb,git,linux,firebase,nginx,illustrator&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,linux,xfce,&theme=light"/>
 </p>
 
 ---
 
-### 📊 Futuristic GitHub Stats
+### 📊  GitHub Stats
 
 <p align="center" style="background: #0f0f1a; padding: 20px; border-radius: 15px; box-shadow: 0 0 30px #7af7d5;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhii7104&show_icons=true&theme=react&hide_border=true&title_color=#7af7d5&icon_color=#7af7d5&text_color=#a0f0e0" />
