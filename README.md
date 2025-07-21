@@ -1,66 +1,82 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=7AF7D5&center=true&vCenter=true&width=435&lines=Hey+I'm+Abhinav+Pandey!;13+y%2Fo+Learner+%7C+Web+Explorer;Building+Useful+Creative+Projects;Let's+Change+the+Web+Together!+" alt="Typing SVG" />
-</div>
-
-<br>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=7AF7D5&center=true&vCenter=true&width=435&lines=$+whoami;Abhinav+Pandey;Student+%7C+Web+Developer;13+y%2Fo+from+Nepal;Learning+to+build+cool+stuff" alt="Typing SVG" />
+</h1>
 
 <div align="center">
-  <img src="https://media.tenor.com/p0G_bmA2Q0IAAAAC/coding.gif" width="350px" />
-  <p><i>"The future is built by those who start early."</i></p>
+  <img src="https://media.tenor.com/p0G_bmA2Q0IAAAAC/coding.gif" width="300px" />
+  <br>
+  <i>"The future is built by those who start early."</i>
 </div>
 
 ---
 
+```shell
+📍 Location:         Kathmandu, Nepal
+🎓 School:           Bagmati Boarding School
+⚽ Hobby:            Playing Forward in Football
+💻 Passion:          Coding 3D UIs, Dashboards & AI Tools
+🧠 Current Focus:    Frontend Web, AI Projects, Creative Coding
+🎯 Dream:            Build useful & impressive tech before 18
+```
 
 ---
 
-### 💡 Featured Projects
+### 🌐 Connect With Me
 
-| 🚀 Project              | 🌟 Description                                             |
-|------------------------|-------------------------------------------------------------|
-| 🎧 Mood Music          | Smart player that selects music based on your mood.         |
-| 🎨 AI Artify           | Generate artistic masterpieces from prompts.                |
-| 🤖 MultiBot            | Chatbot with multiple personalities.                        |
-| 🌍 World Explorer      | Travel dashboard fetching live country data.                |
-| 💼 3D Portfolio        | Animated 3D portfolio inspired by Minh Pham.                |
+* GitHub: [github.com/abhinav-pandey](https://github.com/abhinav-pandey)
+* LinkedIn: *Coming Soon!*
+* Portfolio: *In Progress*
+* Twitter: *Coming Soon!*
 
 ---
 
-### 🛠️ Skills & Tools
+### 🧠 Featured Projects
+
+| 🚀 Project Name         | 📌 Description                      |
+| ----------------------- | ----------------------------------- |
+| 🎿 Mood Music           | Detects mood & plays matching songs |
+| 🎨 AI Artify            | Generates art using AI prompts      |
+| 🤖 MultiBot             | Personality-switching chatbot       |
+| 🌍 World Explorer       | Real-time country dashboard         |
+| 💼 3D Portfolio Website | Interactive 3D personal portfolio   |
+
+---
+
+### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,nodejs,mongodb,git,linux,firebase,nginx&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mongodb,git,linux,firebase,nginx&theme=dark" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhinav-pandey&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav-pandey&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+</p>
 
 ---
 
-### 📈 Contribution Graph
+### 📈 Contribution Activity
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=abhinav-pandey&bg_color=0d1117&color=7af7d5&line=00f7ff&point=ffffff&hide_border=true" />
-</div>
+</p>
 
 ---
 
 ### ☕ Support My Journey
 
-<div align="center">
+<p align="center">
   <a href="https://www.buymeacoffee.com/abhinavpandey">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="210" height="50" alt="Buy Me A Coffee" />
   </a>
-</div>
+</p>
 
 ---
 
-> 🚧 Crafted with ❤️ by **Abhinav Pandey** | © 2025  
-> 💭 Always learning. Always building.
-
+<p align="center">
+  🧠 <b>Abhinav Pandey</b> • 13 y/o Dev-in-Progress • <i>Never too young to innovate</i> 🚀  
+</p>
