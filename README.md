@@ -61,7 +61,10 @@
 
 ### 🔥 Contribution Graph
 
-<p align="center" style="background: linear-gradient(135deg, #7af7d5 10%, #00ffe7 90%); padding: 15px; border-radius: 20px; box-shadow: 0 0 30px #7af7d5;"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Abhii7104&bg_color=0f0f1a&color=00ffe7&line=7af7d5&point=7af7d5&hide_border=true" style="border-radius: 15px;" /> </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhii7104&bg_color=1f1f1f&color=fc6c85&line=ffcc70&point=ffffff&hide_border=true" />
+</p>
+
 
 
 ---
