@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=F7971E&center=true&vCenter=true&width=700&lines=$+whoami;Abhinav+Pandey;Student+%7C+Learning+Web+Development;From+Nepal;Loves+Creative+Web+Design;Building+Futuristic+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=F7971E&center=true&vCenter=true&width=700&lines=$+whoami;Abhinav+Pandey;Student+%7C+Learning+Web+Development;From+Nepal;Loves+Creative+Web+Design;Building+Projects" alt="Typing SVG" />
 </h1>
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHdueWdtajRobm9zOGM2cmJqZnNlbnNyOTA3MGowYjVmbndjbHhrNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pUVOeIagS1rrqsYQJe/giphy.gif" width="320px" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHdueWdtajRobm9zOGM2cmJqZnNlbnNyOTA3MGowYjVmbndjbHhrNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pUVOeIagS1rrqsYQJe/giphy.gif" width=" 220px" />
   <br>
   <i><b>"The future is built by those who start early."</b></i>
 </div>
