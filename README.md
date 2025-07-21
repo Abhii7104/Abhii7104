@@ -1,51 +1,52 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=7AF7D5&center=true&vCenter=true&width=435&lines=$+whoami;Abhinav+Pandey;Student+%7C+Web+Developer;13+y%2Fo+from+Nepal;Learning+to+build+cool+stuff" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7971E&center=true&vCenter=true&width=600&lines=$+whoami;Abhinav+Pandey;Student+%7C+Web+Developer;13+y%2Fo+from+Nepal;Loves+Creative+Web+Design;Building+Futuristic+Projects" alt="Typing SVG" />
 </h1>
 
 <div align="center">
-  <img src="https://media.tenor.com/p0G_bmA2Q0IAAAAC/coding.gif" width="300px" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" />
   <br>
-  <i>"The future is built by those who start early."</i>
+  <i><b>"The future is built by those who start early."</b></i>
 </div>
 
 ---
 
 ```shell
-📍 Location:         Kathmandu, Nepal
-🎓 School:           Bagmati Boarding School
-⚽ Hobby:            Playing Forward in Football
-💻 Passion:          Coding 3D UIs, Dashboards & AI Tools
-🧠 Current Focus:    Frontend Web, AI Projects, Creative Coding
-🎯 Dream:            Build useful & impressive tech before 18
+📍 Kathmandu, Nepal         
+🎓 Bagmati Boarding School  
+⚽ Forward in Football ⚽️        
+💻 Creative Full-Stack Learner 
+🧠 Loves AI, UI/UX, 3D Projects 
+🎯 Mission: Build futuristic web tools 
 ```
 
 ---
 
-### 🌐 Connect With Me
-
-* GitHub: [github.com/abhinav-pandey](https://github.com/abhinav-pandey)
-* LinkedIn: *Coming Soon!*
-* Portfolio: *In Progress*
-* Twitter: *Coming Soon!*
-
----
-
-### 🧠 Featured Projects
-
-| 🚀 Project Name         | 📌 Description                      |
-| ----------------------- | ----------------------------------- |
-| 🎿 Mood Music           | Detects mood & plays matching songs |
-| 🎨 AI Artify            | Generates art using AI prompts      |
-| 🤖 MultiBot             | Personality-switching chatbot       |
-| 🌍 World Explorer       | Real-time country dashboard         |
-| 💼 3D Portfolio Website | Interactive 3D personal portfolio   |
-
----
-
-### 🛠️ Tech Stack
+### 🌐 Let's Connect!
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mongodb,git,linux,firebase,nginx&theme=dark" />
+  <a href="https://github.com/abhinav-pandey"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-In%20Progress-orange?style=for-the-badge&logo=web&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Coming%20Soon-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+| ⚡ Project             | ✨ What It Does                             |
+| --------------------- | ------------------------------------------ |
+| 🎧 Mood Music         | Detects your mood and plays matching songs |
+| 🎨 AI Artify          | Turn ideas into AI-generated art           |
+| 🤖 MultiBot           | Chatbot with switchable personalities      |
+| 🌍 World Explorer     | Real-time facts about any country          |
+| 💼 Animated Portfolio | Creative 3D-style dev portfolio            |
+
+---
+
+### 🛠️ My Tech Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mongodb,git,linux,firebase,nginx,illustrator&theme=light"/>
 </p>
 
 ---
@@ -53,21 +54,31 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhinav-pandey&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav-pandey&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhinav-pandey&show_icons=true&theme=radical&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav-pandey&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 ---
 
-### 📈 Contribution Activity
+### 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=abhinav-pandey&bg_color=0d1117&color=7af7d5&line=00f7ff&point=ffffff&hide_border=true" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=abhinav-pandey&bg_color=1f1f1f&color=fc6c85&line=ffcc70&point=ffffff&hide_border=true" />
 </p>
 
 ---
 
-### ☕ Support My Journey
+### 🎯 Fun Extras
+
+* 🧠 Learning UI/UX + React Animations
+* 🎮 Building HTML games & dashboards
+* 🧪 Inspired by tech startups
+* 🌌 Loves starry night-themed websites
+* 🧩 Trying out new ideas every week
+
+---
+
+### ☕ Support My Learning
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/abhinavpandey">
@@ -78,5 +89,6 @@
 ---
 
 <p align="center">
-  🧠 <b>Abhinav Pandey</b> • 13 y/o Dev-in-Progress • <i>Never too young to innovate</i> 🚀  
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200px"/><br>
+  <b>Made with 💙 by Abhinav Pandey • 13 y/o Creative Coder</b>
 </p>
