@@ -54,8 +54,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhinav-pandey&show_icons=true&theme=radical&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav-pandey&layout=compact&theme=radical&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhii7104&show_icons=true&theme=radical&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhii7104&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 ---
@@ -63,7 +63,7 @@
 ### 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=abhinav-pandey&bg_color=1f1f1f&color=fc6c85&line=ffcc70&point=ffffff&hide_border=true" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Abhii7104&bg_color=1f1f1f&color=fc6c85&line=ffcc70&point=ffffff&hide_border=true" />
 </p>
 
 ---
@@ -78,17 +78,10 @@
 
 ---
 
-### ☕ Support My Learning
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/abhinavpandey">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="210" height="50" alt="Buy Me A Coffee" />
-  </a>
-</p>
 
 ---
 
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200px"/><br>
-  <b>Made with 💙 by Abhinav Pandey • 13 y/o Creative Coder</b>
+  <b>Made with 💙 by Abhinav Pandey • </b>
 </p>
