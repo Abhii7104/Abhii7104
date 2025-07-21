@@ -23,7 +23,7 @@
 
 ### 🌐 Let's Connect!
 
-<p align="center"> <a href="https://github.com/abhinav-pandey"> <img src="https://skillicons.dev/icons?i=github" height="45px" title="GitHub"/> </a> <a href="mailto:abhinavpandey.dev@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" height="45px" title="Gmail"/> </a> <a href="https://linkedin.com/in/abhinav-pandey"> <img src="https://skillicons.dev/icons?i=linkedin" height="45px" title="LinkedIn"/> </a> <a href="https://facebook.com"> <img src="https://skillicons.dev/icons?i=facebook" height="45px" title="Facebook"/> </a> <a href="https://instagram.com"> <img src="https://skillicons.dev/icons?i=instagram" height="45px" title="Instagram"/> </a> <a href="https://x.com"> <img src="https://skillicons.dev/icons?i=twitter" height="45px" title="Twitter"/> </a> </p>
+<p align="center"> <a href="https://github.com/abhinav-pandey"> <img src="https://skillicons.dev/icons?i=github" height="45px" title="GitHub"/> </a> <a href="mailto:abhinavpandey.dev@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" height="45px" title="Gmail"/> </a> <a href="https://linkedin.com/in/abhinav-pandey"> <img src="https://skillicons.dev/icons?i=linkedin" height="45px" title="LinkedIn"/> </a> <a href="https://facebook.com"> <img src="https://skillicons.dev/icons?i=meta" height="45px" title="Facebook"/> </a> <a href="https://instagram.com"> <img src="https://skillicons.dev/icons?i=instagram" height="45px" title="Instagram"/> </a> <a href="https://x.com"> <img src="https://skillicons.dev/icons?i=twitter" height="45px" title="Twitter"/> </a> </p>
 
 ---
 
