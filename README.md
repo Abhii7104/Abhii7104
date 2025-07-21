@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=F7971E&center=true&vCenter=true&width=700&lines=$+whoami;Abhinav+Pandey;Student+%7C+Learning+Web+Development;13+Fo+from+Nepal;Loves+Creative+Web+Design;Building+Futuristic+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=F7971E&center=true&vCenter=true&width=700&lines=$+whoami;Abhinav+Pandey;Student+%7C+Learning+Web+Development;From+Nepal;Loves+Creative+Web+Design;Building+Futuristic+Projects" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -66,9 +66,7 @@
 
 ### 🔥 Contribution Graph
 
-<p align="center" style="background: linear-gradient(135deg, #7af7d5 10%, #00ffe7 90%); padding: 15px; border-radius: 20px; box-shadow: 0 0 30px #7af7d5;">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Abhii7104&bg_color=0f0f1a&color=00ffe7&line=7af7d5&point=7af7d5&hide_border=true" style="border-radius: 15px;" />
-</p>
+<p align="center" style="background: linear-gradient(135deg, #7af7d5 10%, #00ffe7 90%); padding: 15px; border-radius: 20px; box-shadow: 0 0 30px #7af7d5;"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Abhii7104&bg_color=0f0f1a&color=00ffe7&line=7af7d5&point=7af7d5&hide_border=true" style="border-radius: 15px;" /> </p>
 
 
 ---
