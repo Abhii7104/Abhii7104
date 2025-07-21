@@ -1,70 +1,66 @@
 <div align="center">
-  <h2>Hey There! 👋</h2>
-  <p><i>"Young minds build the future — one line of code at a time."</i></p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=7AF7D5&center=true&vCenter=true&width=435&lines=Hey+I'm+Abhinav+Pandey!;13+y%2Fo+Learner+%7C+Web+Explorer;Building+Useful+Creative+Projects;Let's+Change+the+Web+Together!+" alt="Typing SVG" />
 </div>
-
-<pre>
-
-┌──┤ WHOAMI ├─────────────▰▰▰
-│
-├─▣ <a href="https://github.com/abhii7104">Abhinav Pandey</a>
-├─▣ Learner • Student 
-├─▣ Frontend Explorer 
-├─▣ Creative Web Project Builder
-├─▣ Loves AI, Tech, Football ⚽💻
-│
-└────────────────────────────────▰▰▰
-
-┌──┤ SOCIALS ├────────────▰▰▰
-│
-├─◈ <a href="https://github.com/abhii7104">GitHub</a>
-├─◈ <a href="https://www.linkedin.com/">LinkedIn</a> <!-- Optional -->
-├─◈ <a href="https://twitter.com/">Twitter</a> <!-- Optional -->
-│
-└────────────────────────────────▰▰▰
-
-┌──┤ PROJECTS ├──────────▰▰▰
-│
-├─◈ <a href="#">🎧 Mood-Based Music Player</a>
-├─◈ <a href="#">🧠 AI Art Generator</a>
-├─◈ <a href="#">💬 Multi-Personality Chatbot</a>
-├─◈ <a href="#">🌍 World Explorer Dashboard</a>
-├─◈ <a href="#">⚡ Modern 3D Portfolio</a>
-│
-└────────────────────────────────▰▰▰
-</pre>
 
 <br>
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHdueWdtajRobm9zOGM2cmJqZnNlbnNyOTA3MGowYjVmbndjbHhrNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pUVOeIagS1rrqsYQJe/giphy.gif" width="250px">
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=abhinav-pandey" />
+  <img src="https://media.tenor.com/p0G_bmA2Q0IAAAAC/coding.gif" width="350px" />
+  <p><i>"The future is built by those who start early."</i></p>
 </div>
 
-<h3 align="center">Languages & Tools</h3>
+---
+
+
+---
+
+### 💡 Featured Projects
+
+| 🚀 Project              | 🌟 Description                                             |
+|------------------------|-------------------------------------------------------------|
+| 🎧 Mood Music          | Smart player that selects music based on your mood.         |
+| 🎨 AI Artify           | Generate artistic masterpieces from prompts.                |
+| 🤖 MultiBot            | Chatbot with multiple personalities.                        |
+| 🌍 World Explorer      | Travel dashboard fetching live country data.                |
+| 💼 3D Portfolio        | Animated 3D portfolio inspired by Minh Pham.                |
+
+---
+
+### 🛠️ Skills & Tools
+
 <p align="center">
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,nodejs,mongodb,git,linux,firebase,nginx&theme=dark" />
 </p>
 
-<div align="center">
-  <h3>⚡ More About Me</h3>
-  <ul>
-    <li>🚀 13-year-old coder aiming to build amazing websites</li>
-    <li>🎯 Focused on creating impressive projects, not just portfolios</li>
-    <li>📚 Currently learning advanced HTML, CSS, JS, and web animations</li>
-    <li>🎮 Loves football (Forward position), building games & dashboards</li>
-  </ul>
-</div>
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-  <h3>☕ Support</h3>
-  <p>If you like what I do or want to help me grow:</p>
-  <a href="https://www.buymeacoffee.com/abhinavpandey"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" /></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhinav-pandey&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav-pandey&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
+
+---
+
+### 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=abhinav-pandey&bg_color=0d1117&color=7af7d5&line=00f7ff&point=ffffff&hide_border=true" />
+</div>
+
+---
+
+### ☕ Support My Journey
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/abhinavpandey">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="210" height="50" alt="Buy Me A Coffee" />
+  </a>
+</div>
+
+---
+
+> 🚧 Crafted with ❤️ by **Abhinav Pandey** | © 2025  
+> 💭 Always learning. Always building.
+
