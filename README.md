@@ -79,7 +79,7 @@
 * 🧩 Trying out new ideas every week
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="300px"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTc0ajczanhiOGd6ejlod2s5azYyaTNmN2Qyb2w2Mmt3Y2RzOHkwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CreQW9VKKyydHm95H8/giphy.gif" width="300px"/>
 </p>
 
 
