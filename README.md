@@ -3,11 +3,14 @@
 </h1>
 
 <div align="center">
-  <img src="[https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHdueWdtajRobm9zOGM2cmJqZnNlbnNyOTA3MGowYjVmbndjbHhrNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pUVOeIagS1rrqsYQJe/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Y0M21wcThqajQ0bjB6eTN3Mndtc2RtdWRmM3h3eWd3MXR5cHJvNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)" width=" 220px" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Y0M21wcThqajQ0bjB6eTN3Mndtc2RtdWRmM3h3eWd3MXR5cHJvNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="320px" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320px" />
   <br>
   <i><b>"The future is built by those who start early."</b></i>
 </div>
-
 ---
 
 ```shell
