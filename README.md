@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=F7971E&center=true&vCenter=true&width=700&lines=$+whoami;Abhinav+Pandey;Student+%7C+Web+Developer;13+y%2Fo+from+Nepal;Loves+Creative+Web+Design;Building+Futuristic+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=F7971E&center=true&vCenter=true&width=700&lines=$+whoami;Abhinav+Pandey;Student+%7C+Learning+Web+Development;13+Fo+from+Nepal;Loves+Creative+Web+Design;Building+Futuristic+Projects" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -51,24 +51,23 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Futuristic GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhii7104&show_icons=true&theme=radical&hide_border=true&custom_title=Abhinav's+GitHub+Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhii7104&layout=compact&theme=radical&hide_border=true"/>
+<p align="center" style="background: #0f0f1a; padding: 20px; border-radius: 15px; box-shadow: 0 0 30px #7af7d5;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhii7104&show_icons=true&theme=react&hide_border=true&title_color=#7af7d5&icon_color=#7af7d5&text_color=#a0f0e0" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhii7104&layout=compact&theme=react&hide_border=true&title_color=#7af7d5&icon_color=#7af7d5&text_color=#a0f0e0" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhii7104&theme=onedark&no-frame=true&margin-w=15"/>
+<p align="center" style="margin-top: 20px;">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abhii7104&theme=darkhub&no-frame=true&margin-w=15" style="filter: drop-shadow(0 0 8px #7af7d5);" />
 </p>
 
 ---
 
-
 ### 🔥 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Abhii7104&bg_color=1f1f1f&color=fc6c85&line=ffcc70&point=ffffff&hide_border=true" />
+<p align="center" style="background: linear-gradient(135deg, #7af7d5 10%, #00ffe7 90%); padding: 15px; border-radius: 20px; box-shadow: 0 0 30px #7af7d5;">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Abhii7104&bg_color=0f0f1a&color=00ffe7&line=7af7d5&point=7af7d5&hide_border=true" style="border-radius: 15px;" />
 </p>
 
 
