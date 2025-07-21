@@ -1,54 +1,70 @@
-<h2 align="left">Hi 👋! My name is  Abhinav and I'm a Student Learning Web Development .</h2>
+<div align="center">
+  <h2>Hey There! 👋</h2>
+  <p><i>"Young minds build the future — one line of code at a time."</i></p>
+</div>
 
-###
+<pre>
+
+┌──┤ WHOAMI ├─────────────▰▰▰
+│
+├─▣ <a href="https://github.com/abhii7104">Abhinav Pandey</a>
+├─▣ Learner • Student 
+├─▣ Frontend Explorer 
+├─▣ Creative Web Project Builder
+├─▣ Loves AI, Tech, Football ⚽💻
+│
+└────────────────────────────────▰▰▰
+
+┌──┤ SOCIALS ├────────────▰▰▰
+│
+├─◈ <a href="https://github.com/abhii7104">GitHub</a>
+├─◈ <a href="https://www.linkedin.com/">LinkedIn</a> <!-- Optional -->
+├─◈ <a href="https://twitter.com/">Twitter</a> <!-- Optional -->
+│
+└────────────────────────────────▰▰▰
+
+┌──┤ PROJECTS ├──────────▰▰▰
+│
+├─◈ <a href="#">🎧 Mood-Based Music Player</a>
+├─◈ <a href="#">🧠 AI Art Generator</a>
+├─◈ <a href="#">💬 Multi-Personality Chatbot</a>
+├─◈ <a href="#">🌍 World Explorer Dashboard</a>
+├─◈ <a href="#">⚡ Modern 3D Portfolio</a>
+│
+└────────────────────────────────▰▰▰
+</pre>
+
+<br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhii7104&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHdueWdtajRobm9zOGM2cmJqZnNlbnNyOTA3MGowYjVmbndjbHhrNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pUVOeIagS1rrqsYQJe/giphy.gif" width="250px">
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=abhinav-pandey" />
 </div>
 
-###
+<h3 align="center">Languages & Tools</h3>
+<p align="center">
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
+</p>
 
-<br clear="both">
-
-<div align="left" style="width: 100%"></div>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+<div align="center">
+  <h3>⚡ More About Me</h3>
+  <ul>
+    <li>🚀 13-year-old coder aiming to build amazing websites</li>
+    <li>🎯 Focused on creating impressive projects, not just portfolios</li>
+    <li>📚 Currently learning advanced HTML, CSS, JS, and web animations</li>
+    <li>🎮 Loves football (Forward position), building games & dashboards</li>
+  </ul>
 </div>
 
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+<div align="center">
+  <h3>☕ Support</h3>
+  <p>If you like what I do or want to help me grow:</p>
+  <a href="https://www.buymeacoffee.com/abhinavpandey"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" /></a>
 </div>
-
-###
-
-<img align="right" height="160" src="https://c.tenor.com/QGLodbNo9D4AAAAd/tenor.gif"  />
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Abhii7104/Abhii7104/output/snake.svg" alt="Snake animation" />
-
-###
