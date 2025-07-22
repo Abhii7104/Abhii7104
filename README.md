@@ -14,7 +14,7 @@
 ```shell
 📍 Kathmandu, Nepal         
 🎓 Learning Web Development  
-⚽ Hobby Football ⚽️        
+⚽ Football love it         
 💻 Also Learning Full-Stack   
 🎯 Mission: Build small but useful web tools 
 ```
@@ -69,23 +69,19 @@
 
 ---
 
-### 🧩 Animated Extras
+### 🧩  Extras
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Fun%20Extras&fontSize=40&fontAlignY=30"/>
 </p>
 
-* 🧠 Learning UI/UX + React Animations
-* 🎮 Building HTML games & dashboards
-* 🧪 Inspired by tech startups
-* 🌌 Loves starry night-themed websites
-* 🧩 Trying out new ideas every week
+* 🧠 Learning Web Development
+* 🎮 Building Small HTML Projects
+* 🧩 Trying out new ideas every day
 
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTc0ajczanhiOGd6ejlod2s5azYyaTNmN2Qyb2w2Mmt3Y2RzOHkwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CreQW9VKKyydHm95H8/giphy.gif" width="300px"/>
 </p>
-
-
 ---
 
 <p align="center">
