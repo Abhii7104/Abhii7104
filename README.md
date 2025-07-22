@@ -86,7 +86,7 @@
 
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNng1Y3gwcWgxa2RsMmMzNm9tMzBiMXp1amZjemNxczQzejhleXRmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Mx936qy6jLxyjbqTiR/giphy.gif" width="200px"/><br>
-  <b>Made with 💙 by Abhinav Pandey </b>
+  <b>Made by Abhinav Pandey </b>
 </p>
 
 <p align="center">
