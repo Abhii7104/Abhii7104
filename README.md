@@ -49,7 +49,8 @@
 ### 📊  GitHub Stats
 
 <p align="center" style="background: #0f0f1a; padding: 20px; border-radius: 15px; box-shadow: 0 0 30px #7af7d5;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhii7104&show_icons=true&theme=react&hide_border=true&title_color=#7af7d5&icon_color=#7af7d5&text_color=#a0f0e0" />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-coral-two.vercel.app?user=Abhii7104&theme=tokyonight" alt="GitHub Streak" /></a>
+username=Abhii7104&show_icons=true&theme=react&hide_border=true&title_color=#7af7d5&icon_color=#7af7d5&text_color=#a0f0e0" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhii7104&layout=compact&theme=react&hide_border=true&title_color=#7af7d5&icon_color=#7af7d5&text_color=#a0f0e0" />
 </p>
 
