@@ -53,7 +53,7 @@
 </p>
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhii7104&layout=compact&theme=react&hide_border=true&title_color=#7af7d5&icon_color=#7af7d5&text_color=#a0f0e0" />
-</p>
+
 
 <p align="center" style="margin-top: 20px;">
   <img src="https://github-profile-trophy.vercel.app/?username=Abhii7104&theme=darkhub&no-frame=true&margin-w=15" style="filter: drop-shadow(0 0 8px #7af7d5);" />
